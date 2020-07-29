@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          리액트를 배워보자
+          리액트를 제대로 배워보자
         </a>
       </header>
     </div>
